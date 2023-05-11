@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B614CBC4-A207-467C-7BC2-7220C423228F}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/EnemyMove.cs">
+    <Files>
+      <File FileName="Assets/Game/Scripts/Movement.cs" Line="96" Column="41" />
+      <File FileName="Assets/Game/Scripts/FishSpot.cs" Line="38" Column="27" />
+      <File FileName="Assets/Game/Scripts/PlayerCollision.cs" Line="27" Column="8" />
+      <File FileName="Assets/Game/Scripts/EnemyMove.cs" Line="17" Column="31" />
+      <File FileName="Assets/Game/Scripts/Enemy.cs" Line="31" Column="54" />
+      <File FileName="Assets/Game/Scripts/GameManager.cs" Line="83" Column="24" />
+      <File FileName="Assets/Game/Scripts/UiManager.cs" Line="82" Column="23" />
+      <File FileName="Assets/Game/Scripts/LevelSpec.cs" Line="10" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Analytics PreferredExecutionTarget="79d995a0-1699-43c1-8cda-95a2838d471f" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
